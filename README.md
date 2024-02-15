@@ -13,3 +13,4 @@ Java Full Stack Developer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>   <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepan0995&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
